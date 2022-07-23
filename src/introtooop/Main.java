@@ -11,7 +11,7 @@ public class Main {
 
         Student naman = new Student();
         naman.name = "Naman";
-        naman.batch = "Best atch of Scaler";
+        naman.batch = "Best batch of Scaler";
         naman.kartik();
         System.out.println("Doing Nothing");
     }
